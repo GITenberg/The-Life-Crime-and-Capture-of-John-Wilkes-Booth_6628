@@ -1,0 +1,29 @@
+_repo: The-Life-Crime-and-Capture-of-John-Wilkes-Booth_6628
+creator:
+  author:
+    agent_name: Townsend, George Alfred
+    aliases:
+    - Townsend, G. A. (George Alfred)
+    - Bouquet, Johnny
+    birthdate: 1841
+    deathdate: 1914
+    gutenberg_agent_id: '2119'
+    url: http://www.gutenberg.org/2009/agents/2119
+    wikipedia: http://en.wikipedia.org/wiki/George_Alfred_Townsend
+description: ''
+gutenberg_bookshelf: Crime Nonfiction
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6628'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Assassins -- United States -- Biography'
+- !lcsh 'Booth, John Wilkes, 1838-1865'
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Assassination'
+- !lcc 'E456'
+title: The Life, Crime, and Capture of John Wilkes Booth
+url: http://www.gutenberg.org/ebooks/6628
